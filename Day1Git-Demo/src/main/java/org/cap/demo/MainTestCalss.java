@@ -7,6 +7,8 @@ public static void main(String[] args) {
 }
 
 private static void greet() {
+	System.out.println("hi");
+	System.out.println("github");
 	System.out.println("hello");
 	
 }
