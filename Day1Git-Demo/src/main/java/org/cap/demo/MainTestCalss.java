@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	Subraction sub=new Subraction();
 
 	Addition add=new Addition();
+	Multiplication mul=new Multiplication();
 
 	System.out.println("hello world");
 	greet();
@@ -15,6 +16,7 @@ public static void main(String[] args) {
 	sub.subnum(5,2);
 
 	add.addShow(4,5);
+	mul.mulnum(2,2);
 
 }
 
