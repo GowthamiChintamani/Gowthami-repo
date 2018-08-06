@@ -6,5 +6,6 @@ public void show() {
 	for (int i : arr) {
 		System.out.println(i);
 	}
+
 }
 }
